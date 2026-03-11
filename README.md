@@ -3,7 +3,6 @@
 ![ESP32-S2](https://img.shields.io/badge/Board-ESP32--S2%20Mini-blue)
 ![MicroPython](https://img.shields.io/badge/Firmware-MicroPython-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[BOARD WEMOS]([https://www.wemos.cc/en/latest/s2/s2_mini.html](https://www.aliexpress.com/item/1005003145192016.html))
 
 Minimal IoT monitor for ESP32-S2 Mini that checks HTTP/HTTPS endpoints and sends Telegram alerts.
 ---
@@ -13,7 +12,7 @@ Minimal IoT monitor for ESP32-S2 Mini that checks HTTP/HTTPS endpoints and sends
 
 ## 📦 Hardware
 
-- **Board**: Wemos ESP32-S2 Mini v1.0.0 (or any ESP32-S2)[](https://www.wemos.cc/en/latest/s2/s2_mini.html)
+- **Board**: Wemos ESP32-S2 Mini v1.0.0 (or any ESP32-S2)![](https://www.wemos.cc/en/latest/s2/s2_mini.html)
 - **LED**: Onboard GPIO 15 (or 18)
 - **Power**: USB-C cable (WiFi needs stable power)
 
