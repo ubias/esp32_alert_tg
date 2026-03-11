@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Minimal IoT monitor for ESP32-S2 Mini that checks HTTP/HTTPS endpoints and sends Telegram alerts.
+---
+<img width="797" height="798" alt="image" src="https://github.com/user-attachments/assets/32cf63ed-a546-43a4-87ba-81857792f36f" />
 
 ---
 
