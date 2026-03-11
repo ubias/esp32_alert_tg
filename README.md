@@ -12,7 +12,7 @@ Minimal IoT monitor for ESP32-S2 Mini that checks HTTP/HTTPS endpoints and sends
 
 ## 📦 Hardware
 
-- **Board**: Wemos ESP32-S2 Mini v1.0.0 (or any ESP32-S2)![](https://www.wemos.cc/en/latest/s2/s2_mini.html)
+- **Board**: Wemos ESP32-S2 Mini v1.0.0 (or any ESP32-S2)![DOCs](https://www.wemos.cc/en/latest/s2/s2_mini.html)
 - **LED**: Onboard GPIO 15 (or 18)
 - **Power**: USB-C cable (WiFi needs stable power)
 
